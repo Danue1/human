@@ -1,10 +1,10 @@
-function Human(name, id, age, description) {
-  this.name = name === undefined ? "" : name;
+function Human(id, name, age, description) {
   this.id = id === undefined ? "" : id;
+  this.name = name === undefined ? "" : name;
   this.age = age === undefined ? 17 : age;
   this.description = description === undefined ? "" : description;
 }
 
-var human = new Human("Danuel", "@Danue1", 17, "new Human");
+var human = new Human("@human", "human", 17, "new Human");
 
 console.log(human);
