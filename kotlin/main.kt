@@ -3,10 +3,10 @@ package Human
 import Human
 
 val HUMAN = Human(
-  id = "@_danuel_",
-  name = "Danuel",
+  id = "@human",
+  name = "human",
   age = 17,
-  description = "best code monkey"
+  description = "New Human"
 )
 
 fun main (args: Array<String>) {

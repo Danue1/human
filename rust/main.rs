@@ -1,10 +1,10 @@
 mod human;
 
 const HUMAN: human::Human = human::Human {
-  name: "Danuel",
-  id: "@_danuel_",
+  id: "@human",
+  name: "human",
   age: 17,
-  description: "best code monkey"
+  description: "New Human"
 };
 
 fn main () {
