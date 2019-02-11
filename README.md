@@ -10,3 +10,4 @@ The main purpose of this repository is to collect simple code that understands t
 - ID, name, age, description should be @human, human, 17, New Human.
 - If the target language has a syntax similar to a struct in CPP, use it as much as possible.
 - Please write in a style that many people can understand.
+- Please adda blank line to the last line.
